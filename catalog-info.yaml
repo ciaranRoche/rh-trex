@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rh-trex
+  annotations:
+    github.com/project-slug: ciaranRoche/rh-trex
+spec:
+  type: other
+  lifecycle: unknown
